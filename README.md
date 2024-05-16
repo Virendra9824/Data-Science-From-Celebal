@@ -4,7 +4,7 @@ This repository contains the tasks, assignments, and practice programs completed
 
 ## Overview
 
-The COE program at CELEBAL Technology is designed to provide hands-on experience and practical knowledge in various aspects of software engineering and development. This repository serves as a central hub for storing and managing the work done throughout the program.
+The COE program at CELEBAL Technology is designed to provide hands-on experience and practical knowledge in various aspects of Data Science Field. This repository serves as a central hub for storing and managing the work done throughout the program.
 
 ## About Me
 
