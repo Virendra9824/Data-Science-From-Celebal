@@ -1,0 +1,34 @@
+path: ../Data
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: AC
+  1: Bathtub
+  2: Bed
+  3: Bed Frame
+  4: Closet
+  5: Cupboard
+  6: Desk
+  7: Dining Table
+  8: Dish Washer
+  9: Door
+  10: Exhaust Fan
+  11: Exhaust Hood
+  12: Faucet
+  13: Fridge
+  14: Microwave
+  15: Oven
+  16: Sink
+  17: Sofa
+  18: Stove
+  19: TV
+  20: Thermo Ventilator
+  21: Toilet
+  22: Toilet Sink
+  23: Washing Machine
+  24: Water Cubicle
+  25: Water Heater
+  26: Windowsill
